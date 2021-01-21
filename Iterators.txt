@@ -1,0 +1,4 @@
+The Iterator class provides the following methods:
+hasNext(): Returns true if there is at least one more element; otherwise, it returns false.
+next(): Returns the next object and advances the iterator.
+remove(): Removes the last object that was returned by next from the collection.
