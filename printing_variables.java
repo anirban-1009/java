@@ -1,5 +1,5 @@
 //Primitive operators
-public class ex3{
+public class printing_variables{
 	public static void main(String[] args) {
 		int value = 23;
 		int res = value % 6;
